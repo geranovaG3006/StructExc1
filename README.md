@@ -45,7 +45,7 @@ int main()
     }
                              
  // Същата задача решена с указател към структура
- #include<iostream>
+#include<iostream>
 using namespace std;
 struct Automobile
 {
